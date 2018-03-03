@@ -1,0 +1,41 @@
+.pizzaLeft{
+   height:300px;
+   width:150px;
+   border-radius: 150px 0 0 150px;
+   border: 1px solid black;
+   background: yellow;
+   float: left;
+}
+.pizzaRight{
+   height:300px;
+   width:150px;
+   border-radius: 0 150px 150px 0;
+   border: 1px solid black;
+   background: yellow;
+   float: left;
+}
+form{
+  clear: both;
+}
+.pep{
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  background: red;
+  margin-top: 40px;
+  margin-left: 40px;
+  float: left;
+}
+.mush{
+  height: 40px;
+  width: 40px;
+  background: brown;
+  margin-top: 75px;
+  margin-left: 90px;
+}
+.cheese{
+  background: white;
+}
+.hidden{
+  display: none;
+}
